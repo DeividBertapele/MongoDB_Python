@@ -9,8 +9,8 @@
 - Tipos semiestruturados:
     - Json (JavaScripts Object Notation)
     - Bson (Bynary JSON -  ocupa menos espaço por ser binário)
-    - XML ()
-    - YAML ()
+    - XML
+    - YAML
 
 
 - Bibliotecas:
